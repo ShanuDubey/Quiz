@@ -20,7 +20,7 @@ A simple quiz web application built with HTML, CSS, and JavaScript.
 
   ➡️ bash
   ➡️ Copy code
-  ➡️ git clone https://github.com/pvishwakarma09/QuizWebApp-task-3.git
+  ➡️ git clone (https://github.com/ShanuDubey/Quiz.git)
   ➡️ Open the index.html file in your web browser.
 
 ⬇️ Start taking quizzes!
